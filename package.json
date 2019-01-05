@@ -1,0 +1,15 @@
+{
+  "name": "state-holder-typescript",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "mimidarey",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "script": "ts-node script/script.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}

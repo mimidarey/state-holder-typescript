@@ -1,0 +1,10 @@
+*
+!script
+!script/*
+!src
+!src/*
+!.gitignore
+!LICENSE.txt
+!package.json
+!README.md
+!tsconfig.json
